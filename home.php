@@ -37,7 +37,7 @@
     <div class="home-slider">
 
     <div class="W">
-        <div class="slide" style="background:url(images/trees.jpg) no-repeat">
+        <div class="slide" style="background-color:#cecece">
             <div class="content">
                 <span>explore, discover, travel</span>
                 <h3>travel arround the world</h3>
@@ -46,12 +46,12 @@
             </div>
 
 
-
+3
     
         </div>
 
 
-        <div class="slide" style="background:url(images/trees.jpg) no-repeat">
+        <div class="slide" style="background-color:#808080">
             <div class="content">
                 <span>explore, discover, travel</span>
                 <h3>discover the news places</h3>
